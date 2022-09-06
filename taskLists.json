@@ -1,7 +1,7 @@
 {
     "tarefas": [
-        { "1": "Beleza" },
-        { "2": "Roupas" },
-        { "3": "Comidas" }
+        "Beleza",
+        "Roupas",
+        "Comidas"
     ]
 }

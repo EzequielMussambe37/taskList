@@ -1,8 +1,15 @@
 {
     "tarefas": [
         "Beleza",
-        "Roupas",
-        "Comidas",
-        "Medicinas"
+        "Hospital",
+        "Casa", 
+        "Marcado", 
+        "Igreja", 
+        "Família",
+        "Escola", 
+        "Medicina", 
+        "Negócio",
+        "Aniversário", 
+        "Lazer" 
     ]
 }
